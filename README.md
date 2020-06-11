@@ -1,2 +1,5 @@
 # firstproject
-Maybe focus on a Regression Algorithm 
+
+Hi There 
+
+I'm a newbie here, You can call me Run
